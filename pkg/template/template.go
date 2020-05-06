@@ -2,11 +2,11 @@ package template
 
 import (
 	"fmt"
+	"github.com/pzentenoe/commit-message-formatter/pkg/prompt"
 	"os"
-	"prompt"
 	"strings"
 
-	"git"
+	"github.com/pzentenoe/commit-message-formatter/pkg/git"
 
 	color "github.com/logrusorgru/aurora"
 	"github.com/spf13/viper"

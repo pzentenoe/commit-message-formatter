@@ -1,11 +1,11 @@
 package cmd
 
 import (
-	"boilerplate"
 	"fmt"
-	"template"
+	"github.com/pzentenoe/commit-message-formatter/pkg/boilerplate"
+	"github.com/pzentenoe/commit-message-formatter/pkg/template"
 
-	"github.com/commit-message-formatter/pkg/git"
+	"github.com/pzentenoe/commit-message-formatter/pkg/git"
 	"github.com/spf13/cobra"
 )
 

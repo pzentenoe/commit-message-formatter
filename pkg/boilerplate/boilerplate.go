@@ -2,8 +2,8 @@ package boilerplate
 
 import (
 	"fmt"
+	"github.com/pzentenoe/commit-message-formatter/pkg/prompt"
 	"os"
-	"prompt"
 
 	packr "github.com/gobuffalo/packr/v2"
 	color "github.com/logrusorgru/aurora"

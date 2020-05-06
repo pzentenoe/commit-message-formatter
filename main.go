@@ -21,7 +21,7 @@
 package main
 
 import (
-	"cmd"
+	"github.com/pzentenoe/commit-message-formatter/pkg/cmd"
 	"os"
 )
 

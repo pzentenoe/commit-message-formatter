@@ -4,4 +4,4 @@
 // and any other packr generated files.
 package boilerplate
 
-import _ "github.com/commit-message-formatter/packrd"
+import _ "github.com/pzentenoe/commit-message-formatter/packrd"
